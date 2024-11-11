@@ -1,0 +1,4 @@
+This is ex2.txt for Data Center Server/Network Engineer Training
+Current Time is 14:18 11. 11. 2024
+Save This file
+
